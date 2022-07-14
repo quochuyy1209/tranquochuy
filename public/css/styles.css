@@ -1,0 +1,106 @@
+.hinh1{
+    width: 500px;
+}
+.call{
+    background: rgb(237, 237, 239);
+    padding: 30px;
+}
+.bg{
+    background: #000;
+    color: #fff;
+    padding: 50px;
+    size: 30px;
+}
+.id{
+    background:rgb(237, 237, 239);
+    font-size: 30px;
+    padding: 20px;
+    margin: auto;
+}
+
+.it{
+    padding: 20px;
+}
+.qh{
+
+   width: 250px;
+   height: auto;
+   margin-right: 30px;
+   background: rgb(237, 237, 239);
+   font-size: 30px;
+   padding: 20px;
+}
+.avt{
+    text-align: left;
+}
+.vb{
+    text-align: left;
+}
+.siu{
+    width: 250px;
+    height: auto;
+}
+.info{
+    padding: 20px;
+}
+.map{
+    padding: 20px;
+    background: rgb(237, 237, 239);
+    font-size: 30px;
+    padding-top: 30px;
+}
+.Direction{
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    text-align: right;
+    border: solid 1px black;
+    background: rgb(237, 237, 239);;
+    
+
+}
+.Now{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    text-align: right;
+    border: solid 1px white;
+    background: black;
+}
+.Oder{
+    text-decoration: none;
+    color: black;
+    background-color: black;
+    text-align: right;
+    border: solid 1px white;
+    background: white;
+    font-size: 30px;
+    padding: 20px;
+}
+.logo{
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    text-align: right;
+    border: solid 1px black;
+    background: white;
+}
+.coin{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    text-align: right;
+    border: solid 1px white;
+    background: black;
+    font-size: 30px;
+    padding: 10px;
+}
+.sz{
+    padding: 20px;
+}
+footer{
+    padding: 20px;
+}
+header{
+    padding: 20px;
+}
